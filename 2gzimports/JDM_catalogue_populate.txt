@@ -1,0 +1,404 @@
+
+Make: Honda
+Year: 1999
+Model: Civic Type R
+Body Type: Hatchback
+Engine Type: Inline-4
+Driving Style: Right Hand
+Engine Displacement: 1.6L
+Turbocharge: No
+Supercharge: No
+Transmission: Manual
+Drive Train: FWD
+Fuel Type: Gasoline
+Price: Varies
+Features: Sport-tuned suspension, Recaro seats, Limited-slip differential
+url: https://youtu.be/th4ilv_WrGo?si=QTe2EN5hq2EoDmHY
+
+Make: Nissan
+Year: 2002
+Model: Skyline GT-R (R34)
+Body Type: Coupe
+Engine Type: Inline-6
+Driving Style: Right Hand
+Engine Displacement: 2.6L
+Turbocharge: Yes
+Supercharge: No
+Transmission: Manual
+Drive Train: AWD
+Fuel Type: Gasoline
+Price: Varies
+Features: ATTESA E-TS AWD system, Brembo brakes, RB26DETT engine
+url: https://youtu.be/5-0BwZ1r6H4?si=9f4DSI9qvNI2nI1v
+
+Make: Toyota
+Year: 1993
+Model: Supra Turbo
+Body Type: Coupe
+Engine Type: Inline-6
+Driving Style: Right Hand
+Engine Displacement: 3.0L
+Turbocharge: Yes
+Supercharge: No
+Transmission: Manual
+Drive Train: RWD
+Fuel Type: Gasoline
+Price: Varies
+Features: Targa top, 2JZ-GTE engine, Active Spoiler
+url:https://youtu.be/jqSxt1sd-_c?si=cwi4pSmeuRUPHIoe
+
+Make: Subaru
+Year: 2004
+Model: Impreza WRX STI
+Body Type: Sedan
+Engine Type: Flat-4
+Driving Style: Right Hand
+Engine Displacement: 2.5L
+Turbocharge: Yes
+Supercharge: No
+Transmission: Manual
+Drive Train: AWD
+Fuel Type: Gasoline
+Price: Varies
+Features: Symmetrical AWD, Brembo brakes, Driver-controlled center differential (DCCD)
+url:https://youtu.be/LMK1VKvqIcU?si=uLGJZbQdBEfgOl_x
+
+Make: Mazda
+Year: 1993
+Model: RX-7
+Body Type: Coupe
+Engine Type: Rotary
+Driving Style: Right Hand
+Engine Displacement: 1.3L
+Turbocharge: Yes
+Supercharge: No
+Transmission: Manual
+Drive Train: RWD
+Fuel Type: Gasoline
+Price: Varies
+Features: Twin-turbocharged 13B-REW engine, Sequential twin-turbo system
+url:https://youtu.be/kAyTAy93vBk?si=wG0mp0rc6q-qzeX7
+
+Make: Mitsubishi
+Year: 1999
+Model: Lancer Evolution VI
+Body Type: Sedan
+Engine Type: Inline-4
+Driving Style: Right Hand
+Engine Displacement: 2.0L
+Turbocharge: Yes
+Supercharge: No
+Transmission: Manual
+Drive Train: AWD
+Fuel Type: Gasoline
+Price: Varies
+Features: Active Yaw Control (AYC), Recaro seats, 4G63T engine
+url: https://youtu.be/Gmp4ASbPYpI?si=U4hzdO0pyitpC0K0
+
+Make: Suzuki
+Year: 1991
+Model: Cappuccino
+Body Type: Convertible
+Engine Type: Inline-3
+Driving Style: Right Hand
+Engine Displacement: 0.7L
+Turbocharge: Yes
+Supercharge: No
+Transmission: Manual
+Drive Train: RWD
+Fuel Type: Gasoline
+Price: Varies
+Features: Lightweight design, Removable roof, Mid-engine layout
+url: https://youtu.be/EGu2RLPOKhQ?si=FkNYRK3kx0zyGiqk
+
+Make: Lexus
+Year: 1999
+Model: IS 300
+Body Type: Sedan
+Engine Type: Inline-6
+Driving Style: Right Hand
+Engine Displacement: 3.0L
+Turbocharge: No
+Supercharge: No
+Transmission: Automatic/Manual
+Drive Train: RWD
+Fuel Type: Gasoline
+Price: Varies
+Features: Sport-tuned suspension, Altezza-style taillights, 2JZ-GE engine
+url: https://youtu.be/qENNQEY67gs?si=W1Qwir1NgC5puulJ
+
+Make: Honda
+Year: 1992
+Model: NSX
+Body Type: Coupe
+Engine Type: V6
+Driving Style: Right Hand
+Engine Displacement: 3.0L
+Turbocharge: No
+Supercharge: No
+Transmission: Manual
+Drive Train: RWD
+Fuel Type: Gasoline
+Price: Varies
+Features: Aluminum body, Mid-engine layout, VTEC variable valve timing
+url: https://youtu.be/q5PPNZiu52w?si=3Oj2z96qtZZtsCdb
+
+Make: Nissan
+Year: 1995
+Model: 300ZX Twin Turbo
+Body Type: Coupe
+Engine Type: V6
+Driving Style: Right Hand
+Engine Displacement: 3.0L
+Turbocharge: Yes
+Supercharge: No
+Transmission: Manual
+Drive Train: RWD
+Fuel Type: Gasoline
+Price: Varies
+Features: Twin-turbocharged VG30DETT engine, Active Suspension
+url: https://youtu.be/87G3NoSVhEo?si=A62FU_Ry0u4ZyDN0
+
+Make: Subaru
+Year: 1998
+Model: Forester STI
+Body Type: SUV
+Engine Type: Flat-4
+Driving Style: Right Hand
+Engine Displacement: 2.0L
+Turbocharge: Yes
+Supercharge: No
+Transmission: Manual
+Drive Train: AWD
+Fuel Type: Gasoline
+Price: Varies
+Features: STI-tuned suspension, Larger brakes, Hood scoop, Fender flares
+url: https://youtu.be/Gxc2LPqE1bY?si=8HiLEZiGHqQHeOVB
+
+Make: Toyota
+Year: 1998
+Model: Celica GT-Four
+Body Type: Coupe
+Engine Type: Inline-4
+Driving Style: Right Hand
+Engine Displacement: 2.0L
+Turbocharge: Yes
+Supercharge: No
+Transmission: Manual
+Drive Train: AWD
+Fuel Type: Gasoline
+Price: Varies
+Features: All-Trac AWD system, WRC heritage, 3S-GTE engine
+url: https://youtu.be/JjHe2sDyLTE?si=S2C-6v_ZuniaUH69
+
+Make: Mazda
+Year: 1991
+Model: MX-5 Miata
+Body Type: Convertible
+Engine Type: Inline-4
+Driving Style: Right Hand
+Engine Displacement: 1.6L
+Turbocharge: No
+Supercharge: No
+Transmission: Manual
+Drive Train: RWD
+Fuel Type: Gasoline
+Price: Varies
+Features: Lightweight design, Pop-up headlights, Rear-wheel drive
+url: https://youtu.be/Vjxqg1ktJVo?si=nZdy7Yx8mpQAohzO
+
+Make: Nissan
+Year: 1990
+Model: Silvia S13
+Body Type: Coupe
+Engine Type: Inline-4
+Driving Style: Right Hand
+Engine Displacement: 2.0L
+Turbocharge: Yes
+Supercharge: No
+Transmission: Manual
+Drive Train: RWD
+Fuel Type: Gasoline
+Price: Varies
+Features: Iconic "notchback" design, SR20DET engine, Drift culture legend
+url: https://youtu.be/3su8P5Z8NFk?si=uZWSm9heYd7IwSes
+
+Make: Mitsubishi
+Year: 1992
+Model: 3000GT VR-4
+Body Type: Coupe
+Engine Type: V6
+Driving Style: Right Hand
+Engine Displacement: 3.0L
+Turbocharge: Yes
+Supercharge: No
+Transmission: Manual
+Drive Train: AWD
+Fuel Type: Gasoline
+Price: Varies
+Features: Active Aero, 4-wheel steering, Twin-turbocharged engine
+url: https://youtu.be/T1m3Vxqli38?si=JJ5sUfyTlMMSi9hY
+
+Make: Honda
+Year: 2000
+Model: S2000
+Body Type: Convertible
+Engine Type: Inline-4
+Driving Style: Right Hand
+Engine Displacement: 2.0L
+Turbocharge: yes
+Supercharge: No
+Transmission: Manual
+Drive Train: RWD
+Fuel Type: Gasoline
+Price: Varies
+Features: High-revving F20C engine, Rear-wheel drive, Electric power steering
+url: https://youtu.be/pCFiC5n8zeU?si=TIOvonZ7fwzdUcNa
+
+Make: Subaru
+Year: 1994
+Model: Alcyone SVX
+Body Type: Coupe
+Engine Type: Flat-6
+Driving Style: Right Hand
+Engine Displacement: 3.3L
+Turbocharge: No
+Supercharge: No
+Transmission: Automatic
+Drive Train: AWD
+Fuel Type: Gasoline
+Price: Varies
+Features: Innovative window-within-a-window design, Unique D-4WD system
+url: https://youtu.be/aWe5iJZIC3w?si=XobYhcEt_vin1qMR
+
+Make: Toyota
+Year: 1994
+Model: MR2 Turbo
+Body Type: Coupe
+Engine Type: Inline-4
+Driving Style: Right Hand
+Engine Displacement: 2.0L
+Turbocharge: Yes
+Supercharge: No
+Transmission: Manual
+Drive Train: RWD
+Fuel Type: Gasoline
+Price: Varies
+Features: Mid-engine layout, T-bar roof, 3S-GTE engine
+url: https://youtu.be/BKgvDSj4OX0?si=hB5FuqWGLn2Kfd8g
+
+Make: Nissan
+Year: 1997
+Model: 240SX (S14)
+Body Type: Coupe
+Engine Type: Inline-4
+Driving Style: Right Hand
+Engine Displacement: 2.4L
+Turbocharge: Yes
+Supercharge: No
+Transmission: Manual
+Drive Train: RWD
+Fuel Type: Gasoline
+Price: Varies
+Features: Sleek body design, KA24DE engine, Popular in drifting
+url: https://youtu.be/Dxrh7BHyJbU?si=zpanFt7RYSeMGfDz
+
+Make: Mazda
+Year: 1989
+Model: 323 GTX
+Body Type: Hatchback
+Engine Type: Inline-4
+Driving Style: Right Hand
+Engine Displacement: 1.6L
+Turbocharge: Yes
+Supercharge: No
+Transmission: Manual
+Drive Train: AWD
+Fuel Type: Gasoline
+Price: Varies
+Features: Turbocharged B6T engine, Rally-inspired design, Limited production
+url: https://youtu.be/ueh5S6NGmWQ?si=fxkLSLzjaCyrbZiH
+
+Make: Toyota
+Year: 1985
+Model: Corolla AE86
+Body Type: Coupe
+Engine Type: Inline-4
+Driving Style: Right Hand
+Engine Displacement: 1.6L
+Turbocharge: No
+Supercharge: No
+Transmission: Manual
+Drive Train: RWD
+Fuel Type: Gasoline
+Price: Varies
+Features: Lightweight chassis, Rear-wheel drive, Iconic in drifting culture
+url: https://youtu.be/riKha2kwMrg?si=g9aUhslUd57Yid3U
+
+Make: Subaru
+Year: 2005
+Model: Legacy GT Spec.B
+Body Type: Sedan
+Engine Type: Flat-4
+Driving Style: Right Hand
+Engine Displacement: 2.5L
+Turbocharge: Yes
+Supercharge: No
+Transmission: Manual
+Drive Train: AWD
+Fuel Type: Gasoline
+Price: Varies
+Features: Bilstein sport suspension, SI-Drive system, 6-speed manual
+url: https://youtu.be/Bg-L3Fbwcyw?si=1Ks9TCg7dgtnW5Uv
+
+Make: Honda
+Year: 2004
+Model: Integra
+User
+continue
+ChatGPT
+Type R
+- Body Type: Coupe
+- Engine Type: Inline-4
+- Driving Style: Right Hand
+- Engine Displacement: 2.0L
+- Turbocharge: No
+- Supercharge: No
+- Transmission: Manual
+- Drive Train: FWD
+- Fuel Type: Gasoline
+- Price: Varies
+- Features: VTEC engine, Close-ratio gearbox, Limited-slip differential
+url: https://youtu.be/WbkmPM2cl-A?si=CU4b7tFhvq3EwEyT
+
+Make: Nissan
+Year: 2007
+Model: GT-R (R35)
+Body Type: Coupe
+Engine Type: V6
+Driving Style: Right Hand
+Engine Displacement: 3.8L
+Turbocharge: Yes
+Supercharge: No
+Transmission: Dual-Clutch Automatic
+Drive Train: AWD
+Fuel Type: Gasoline
+Price: Varies
+Features: Advanced AWD system, Launch control, VR38DETT engine
+url: https://youtu.be/pu_b0gP9Ijo?si=rfyCmDCwlmD_rWAU
+
+Make: Mitsubishi
+Year: 2006
+Model: Lancer Evolution IX
+Body Type: Sedan
+Engine Type: Inline-4
+Driving Style: Right Hand
+Engine Displacement: 2.0L
+Turbocharge: Yes
+Supercharge: No
+Transmission: Manual
+Drive Train: AWD
+Fuel Type: Gasoline
+Price: Varies
+Features: MIVEC engine, Active Center Differential (ACD), Brembo brakes
+url: https://youtu.be/EIU1ottltSs?si=P63d1mg8FSlpIyW7
